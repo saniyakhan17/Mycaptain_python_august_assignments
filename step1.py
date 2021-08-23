@@ -21,5 +21,3 @@ if __name__ == '__main__':
         elif(check=="n"):
             condition=False
     
-#ghfdg 6 454546 gdfg@gfhsdf.com
-#56 546465 fhds@hds.vom
